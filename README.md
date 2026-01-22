@@ -1,4 +1,5 @@
 # 🦝 RaccoonGame - AI 기반 제스처 인식 3D 게임
+<!-- Updated commit message encoding -->
 
 손과 얼굴 인식을 활용한 인터랙티브 3D 러닝 게임입니다.
 
