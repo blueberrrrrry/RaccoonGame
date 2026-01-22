@@ -57,7 +57,7 @@ npx http-server
 
 3. 브라우저에서 접속
 ```
-http://localhost:8000/start.html
+http://localhost:8000/index.html
 ```
 
 **주의**: 웹캠 권한이 필요하며, HTTPS 환경 또는 localhost에서만 작동합니다.
@@ -72,8 +72,8 @@ RaccoonGame/
 ├── image/               # 이미지 리소스
 ├── music/               # 오디오 파일
 ├── *.js                 # 게임 로직 모듈
-├── index.html           # 게임 메인 페이지
-├── start.html           # 시작 화면
+├── start.html           # 게임 메인 페이지
+├── index.html           # 시작 화면
 └── ending.html          # 엔딩 화면
 ```
 
